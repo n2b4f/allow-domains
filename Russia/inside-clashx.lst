@@ -59,12 +59,14 @@ DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,arbat.media
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,as6723.net
 DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,atn.ua
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
 DOMAIN-SUFFIX,audiobookbay.lu
+DOMAIN-SUFFIX,aur.archlinux.org
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,azathabar.com
@@ -87,6 +89,7 @@ DOMAIN-SUFFIX,bitnami.com
 DOMAIN-SUFFIX,blackseanews.net
 DOMAIN-SUFFIX,blinkshot.io
 DOMAIN-SUFFIX,bluehost.com
+DOMAIN-SUFFIX,bluevps.com
 DOMAIN-SUFFIX,booktracker.org
 DOMAIN-SUFFIX,boominfo.org
 DOMAIN-SUFFIX,booth.pm
@@ -472,6 +475,7 @@ DOMAIN-SUFFIX,multporn.net
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musixmatch.com
+DOMAIN-SUFFIX,my.bluevps.com
 DOMAIN-SUFFIX,mydoramy.club
 DOMAIN-SUFFIX,myheritage.com
 DOMAIN-SUFFIX,myjetbrains.com

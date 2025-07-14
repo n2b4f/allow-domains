@@ -59,12 +59,14 @@
 /ip dns static add name=arbat.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=archive.ph type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=archiveofourown.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=as6723.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=assets.heroku.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=atn.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=att.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=attachments.f95zone.to type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=audiobookbay.lu type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=aur.archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=autodesk.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avira.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=azathabar.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -87,6 +89,7 @@
 /ip dns static add name=blackseanews.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=blinkshot.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bluehost.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=bluevps.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=booktracker.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=boominfo.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=booth.pm type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -472,6 +475,7 @@
 /ip dns static add name=muscdn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=musical.ly type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=musixmatch.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=my.bluevps.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mydoramy.club type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myheritage.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myjetbrains.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
