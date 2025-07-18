@@ -542,6 +542,7 @@ nftset=/omv-extras.org/4#inet#fw4#vpn_domains
 nftset=/onfastspring.com/4#inet#fw4#vpn_domains
 nftset=/onlinesim.io/4#inet#fw4#vpn_domains
 nftset=/onshape.com/4#inet#fw4#vpn_domains
+nftset=/open.spotify.com/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/openmedia.io/4#inet#fw4#vpn_domains
 nftset=/opensanctions.org/4#inet#fw4#vpn_domains
