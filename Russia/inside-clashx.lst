@@ -62,12 +62,14 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,arbat.media
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,as6723.net
 DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,atn.ua
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
 DOMAIN-SUFFIX,audiobookbay.lu
+DOMAIN-SUFFIX,aur.archlinux.org
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,azathabar.com
@@ -90,6 +92,7 @@ DOMAIN-SUFFIX,bitnami.com
 DOMAIN-SUFFIX,blackseanews.net
 DOMAIN-SUFFIX,blinkshot.io
 DOMAIN-SUFFIX,bluehost.com
+DOMAIN-SUFFIX,bluevps.com
 DOMAIN-SUFFIX,booktracker.org
 DOMAIN-SUFFIX,boominfo.org
 DOMAIN-SUFFIX,booth.pm
@@ -153,6 +156,7 @@ DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.sophos.com
 DOMAIN-SUFFIX,contabo.com
+DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,corsair.com
@@ -284,6 +288,7 @@ DOMAIN-SUFFIX,fortanga.org
 DOMAIN-SUFFIX,forum.netgate.com
 DOMAIN-SUFFIX,forum.ru-board.com
 DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,fragment.com
 DOMAIN-SUFFIX,framer.com
 DOMAIN-SUFFIX,freedomletters.org
 DOMAIN-SUFFIX,freeimages.com
@@ -490,6 +495,7 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mw2.wiki
+DOMAIN-SUFFIX,my.bluevps.com
 DOMAIN-SUFFIX,mydoramy.club
 DOMAIN-SUFFIX,myheritage.com
 DOMAIN-SUFFIX,myjetbrains.com
@@ -559,6 +565,7 @@ DOMAIN-SUFFIX,omv-extras.org
 DOMAIN-SUFFIX,onfastspring.com
 DOMAIN-SUFFIX,onlinesim.io
 DOMAIN-SUFFIX,onshape.com
+DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openh264.org
 DOMAIN-SUFFIX,openmedia.io
@@ -627,6 +634,7 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,public.parsec.app
 DOMAIN-SUFFIX,qt.io
+DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,r4.err.ee
@@ -753,6 +761,7 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,static.lostfilm.top
 DOMAIN-SUFFIX,statology.org
 DOMAIN-SUFFIX,steamstat.info
+DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,strana.news
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
@@ -772,16 +781,22 @@ DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,synoforum.com
 DOMAIN-SUFFIX,t-invariant.org
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,talosintelligence.com
 DOMAIN-SUFFIX,tayga.info
 DOMAIN-SUFFIX,te-st.org
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techbargains.com
+DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegraf.by
 DOMAIN-SUFFIX,telegraf.news
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telemetr.io
+DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tempmail.plus
 DOMAIN-SUFFIX,temu.com
@@ -821,6 +836,7 @@ DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
+DOMAIN-SUFFIX,translations.telegram.org
 DOMAIN-SUFFIX,trellix.com
 DOMAIN-SUFFIX,trueblackmetalradio.com
 DOMAIN-SUFFIX,truthsocial.com
