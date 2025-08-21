@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN-SUFFIX,api.service-kp.com
+DOMAIN-SUFFIX,api.telegram.org
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,apkmirror.com
@@ -122,6 +123,7 @@ DOMAIN-SUFFIX,cats.com
 DOMAIN-SUFFIX,cbilling.eu
 DOMAIN-SUFFIX,cbilling.vip
 DOMAIN-SUFFIX,cdn.web-platform.io
+DOMAIN-SUFFIX,cdn4.telesco.pe
 DOMAIN-SUFFIX,cdnbunny.org
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdromance.org
@@ -156,7 +158,6 @@ DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.sophos.com
 DOMAIN-SUFFIX,contabo.com
-DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,corsair.com
@@ -288,7 +289,6 @@ DOMAIN-SUFFIX,fortanga.org
 DOMAIN-SUFFIX,forum.netgate.com
 DOMAIN-SUFFIX,forum.ru-board.com
 DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,fragment.com
 DOMAIN-SUFFIX,framer.com
 DOMAIN-SUFFIX,freedomletters.org
 DOMAIN-SUFFIX,freeimages.com
@@ -634,7 +634,6 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,public.parsec.app
 DOMAIN-SUFFIX,qt.io
-DOMAIN-SUFFIX,quiz.directory
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quora.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,r4.err.ee
@@ -761,7 +760,6 @@ DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,static.lostfilm.top
 DOMAIN-SUFFIX,statology.org
 DOMAIN-SUFFIX,steamstat.info
-DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,strana.news
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
@@ -791,7 +789,6 @@ DOMAIN-SUFFIX,techbargains.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegraf.by
 DOMAIN-SUFFIX,telegraf.news
-DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegraph.co.uk
@@ -836,7 +833,6 @@ DOMAIN-SUFFIX,torrentgalaxy.to
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
-DOMAIN-SUFFIX,translations.telegram.org
 DOMAIN-SUFFIX,trellix.com
 DOMAIN-SUFFIX,trueblackmetalradio.com
 DOMAIN-SUFFIX,truthsocial.com
