@@ -73,6 +73,7 @@
 /ip dns static add name=att.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=attachments.f95zone.to type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=audiobookbay.lu type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=aur.archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=autodesk.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avira.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=azathabar.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -95,6 +96,7 @@
 /ip dns static add name=blackseanews.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=blinkshot.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bluehost.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=bluevps.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=booktracker.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=boominfo.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=booth.pm type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -551,6 +553,7 @@
 /ip dns static add name=musical.ly type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=musixmatch.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mw2.wiki type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=my.bluevps.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myanimelist.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=mydoramy.club type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=myheritage.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -626,6 +629,7 @@
 /ip dns static add name=onfastspring.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=onlinesim.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=onshape.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=open.spotify.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=openai.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=openh264.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=openmedia.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
