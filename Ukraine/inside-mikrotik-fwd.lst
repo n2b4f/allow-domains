@@ -170,6 +170,7 @@
 /ip dns static add name=filmic.ac type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=filmix.ac type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=fixmypc.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=fixti.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=flashboot.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=flipperzero.one type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=fornote.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -190,6 +191,7 @@
 /ip dns static add name=gatoga.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gazeta.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gcdn.co type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=gdebenz.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=getcourse.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=getnet.pro type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gisclub.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
